@@ -59,4 +59,4 @@ while True:
 	flag = input("\nYor Details Have Been Recorded \n\n Do you want to continue (Y/N)? ")
 	if(flag == 'n' or flag == 'N'):
 		print("\n Exiting. . . \n****************Thank You***************")
-		go = False
+		break
