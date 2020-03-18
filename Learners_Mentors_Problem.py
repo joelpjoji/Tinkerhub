@@ -37,9 +37,7 @@ obj = Learner_Mentor()
 while True:
 
 	print("\n****************Welcome****************")
-	print("\n1:Enter the details of a participant")
-	print("\n2:Check the availablity of Mentors")
-	print("\n3:Exit")
+	print("\n1:Enter the details of a participant \n2:Check the availablity of Mentors\n3:Exit")
 	choice = int(input("\nEnter Your Choice : "))
 	if(choice == 1):
 		
